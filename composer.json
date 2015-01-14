@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpunit/phpunit": "4.4.1",
+        "phing/phing": "2.9.1",
+        "mockery/mockery": "0.9.3",
+        "symfony/event-dispatcher": "2.6.3"
+    }
+}
