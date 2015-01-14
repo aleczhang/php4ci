@@ -1046,12 +1046,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/aleczhang/PhpSpock.git",
-            "reference": "552ce6a6f76b7a64297c068076582364ebccaa74"
+            "reference": "f988cae0b935643d3840e3082727240fc9566fbf"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/aleczhang/PhpSpock/zipball/552ce6a6f76b7a64297c068076582364ebccaa74",
-            "reference": "552ce6a6f76b7a64297c068076582364ebccaa74",
+            "url": "https://api.github.com/repos/aleczhang/PhpSpock/zipball/f988cae0b935643d3840e3082727240fc9566fbf",
+            "reference": "f988cae0b935643d3840e3082727240fc9566fbf",
             "shasum": ""
         },
         "require": {
@@ -1059,7 +1059,7 @@
             "php": ">=5.3.0",
             "symfony/event-dispatcher": "2.6.3"
         },
-        "time": "2015-01-14 15:01:04",
+        "time": "2015-01-14 15:32:41",
         "type": "library",
         "installation-source": "source",
         "autoload": {
