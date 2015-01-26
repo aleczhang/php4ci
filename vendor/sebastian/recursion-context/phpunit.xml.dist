@@ -7,8 +7,8 @@
          checkForUnintentionallyCoveredCode="true"
          forceCoversAnnotation="true"
          verbose="true">
- <testsuites>
-  <testsuite name="exporter">
+<testsuites>
+  <testsuite name="recursion-context">
    <directory>tests</directory>
   </testsuite>
  </testsuites>
@@ -18,4 +18,3 @@
   </whitelist>
  </filter>
 </phpunit>
-
