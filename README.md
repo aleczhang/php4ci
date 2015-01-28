@@ -13,4 +13,4 @@
 
 1. Downlaod the whole project.
 2. Make sure **php** is in the **$PATH**. Require: PHP>=5.3.3.
-3. Add *vender/bin* to the **$PATH**.
+3. Add *vendor/bin* to the **$PATH**.
