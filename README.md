@@ -13,7 +13,7 @@
 * mockery/mockery: 0.9.3
 * symfony/event-dispatcher: 2.6.3
 * squizlabs/php_codesniffer: 2.1.0
-* aleczhang/phpspock: dev-master
+* aleczhang/phpspock: 0.1.4
 
 ##How to Use
 
